@@ -15,13 +15,6 @@ I enjoy working on projects that challenge my skills and contribute to the devel
 - 🌱 Always learning **new Flutter techniques and best practices**  
 - 🤝 Open to **collaboration, freelance projects, and open-source contributions**  
 
----
-
-## 🚀 GitHub Stats
-
-![Madhan Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhankumar1823&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhankumar1823&layout=compact&theme=radical)
 
 ---
 
@@ -31,7 +24,7 @@ I enjoy working on projects that challenge my skills and contribute to the devel
 |---------|------------|-------------|
 | 🛒 Flutter E-commerce App | Full-featured e-commerce app with Firebase backend | [GitHub](https://github.com/Madhankumar1823/flutter-ecommerce) |
 | 📦 Provider State Management | Demonstrates Provider with ChangeNotifier | [GitHub](https://github.com/Madhankumar1823/projects) |
-| ⚡ GetX State Management App | Example of GetX for reactive state management | [GitHub](https://github.com/Madhankumar1823/getx-example) |
+| ⚡ GetX State Management | Example of GetX for reactive state management | [GitHub](https://github.com/Madhankumar1823/projects) |
 
 ---
 
