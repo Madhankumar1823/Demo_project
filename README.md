@@ -22,9 +22,9 @@ I enjoy working on projects that challenge my skills and contribute to the devel
 
 | Project | Description | GitHub Link |
 |---------|------------|-------------|
-| 🛒 Flutter E-commerce App | Full-featured e-commerce app with Firebase backend | [GitHub](https://github.com/Madhankumar1823/flutter-ecommerce) |
+| 🛒 Flutter E-commerce App |  e-commerce app  | [GitHub](https://github.com/Madhankumar1823/flutter-ecommerce) |
 | 📦 Provider State Management | Demonstrates Provider with ChangeNotifier | [GitHub](https://github.com/Madhankumar1823/projects) |
-| ⚡ GetX State Management | Example of GetX for reactive state management | [GitHub](https://github.com/Madhankumar1823/projects) |
+| ⚡ GetX State Management |  GetX for reactive state management | [GitHub](https://github.com/Madhankumar1823/projects) |
 
 ---
 
